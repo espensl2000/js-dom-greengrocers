@@ -21,6 +21,18 @@ button {
 }
 
 /* Store */
+.store-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.store-filterbtn-wrapper {
+  display: flex;
+  flex-direction: row;
+
+}
 
 #store {
   height: 40vh;
